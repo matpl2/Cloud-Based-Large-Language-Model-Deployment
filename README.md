@@ -41,7 +41,7 @@ Each file inside the archive corresponds to one evaluated model and contains the
 | `CORRECT ANSWER` | Ground-truth answer number (1–4) from the Belebele dataset | `2` |
 | `LLM_ANWER` | Parsed LLM answer number extracted from the response | `2` |
 
-**Inference parameters used across all models:**
+**Inference parameters used are in the prompt. Example from Llama:**
 
 ```
 max_new_tokens : 1100
