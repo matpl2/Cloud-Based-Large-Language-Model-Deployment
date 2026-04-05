@@ -142,5 +142,5 @@ Data and code are released for academic replication purposes. Please contact the
 ## Author
 
 **Mateusz Ploskonka**  
-PhD Candidate, Applied Informatics — Prague University of Economics and Business (VŠE)  
-Supervisor: Prof. Tomáš Kliegr
+PhD Student, Applied Informatics — Prague University of Economics and Business (VŠE)  
+
